@@ -1,0 +1,114 @@
+{
+  "/mnt/HDD/Projects/Sudoko/jest.config.js": {
+    "mtime": 1778569430.4807377,
+    "hash": "d4ef20bf3ef633e6075391eb5c355d44"
+  },
+  "/mnt/HDD/Projects/Sudoko/globals.d.ts": {
+    "mtime": 1778578974.7330484,
+    "hash": "3992585c24c1b8e72de7f3034bcecf9c"
+  },
+  "/mnt/HDD/Projects/Sudoko/index.ts": {
+    "mtime": 1778566023.8088338,
+    "hash": "33caa6d28d87fc7e637c033d0d7124b1"
+  },
+  "/mnt/HDD/Projects/Sudoko/App.tsx": {
+    "mtime": 1778584135.5337343,
+    "hash": "50eca38e87d2588dffd1c956ffb4dd60"
+  },
+  "/mnt/HDD/Projects/Sudoko/components/NumberPad.tsx": {
+    "mtime": 1778582473.6943734,
+    "hash": "dc66ea79ea9cc6bf977e86c51b4ab834"
+  },
+  "/mnt/HDD/Projects/Sudoko/components/Cell.tsx": {
+    "mtime": 1778583000.7610915,
+    "hash": "8fa66840a0b26a0bbab6de7744c55103"
+  },
+  "/mnt/HDD/Projects/Sudoko/components/Controls.tsx": {
+    "mtime": 1778583073.9127233,
+    "hash": "715859b0eaf75a8e4a7ea5341c5bee7b"
+  },
+  "/mnt/HDD/Projects/Sudoko/components/Common.tsx": {
+    "mtime": 1778582274.0883868,
+    "hash": "9d33c942d798b1d3c4c74eddb2601665"
+  },
+  "/mnt/HDD/Projects/Sudoko/components/Board.tsx": {
+    "mtime": 1778573268.1183364,
+    "hash": "9633a72e5a1bde9436e4354b674e9666"
+  },
+  "/mnt/HDD/Projects/Sudoko/utils/SudokuEngine.ts": {
+    "mtime": 1778578611.6912582,
+    "hash": "ad8add19c0fe3ebe4c4298bd381747d5"
+  },
+  "/mnt/HDD/Projects/Sudoko/utils/SudokuEngine.test.ts": {
+    "mtime": 1778569473.4812856,
+    "hash": "0099b1b3af7601b2d0f3805615416155"
+  },
+  "/mnt/HDD/Projects/Sudoko/utils/ThemeContext.tsx": {
+    "mtime": 1778578625.737755,
+    "hash": "ce289025cd1b5fc50553e93a97cb0328"
+  },
+  "/mnt/HDD/Projects/Sudoko/utils/Storage.test.ts": {
+    "mtime": 1778569821.0118818,
+    "hash": "8a45e4239c52708610398aa68a4bffab"
+  },
+  "/mnt/HDD/Projects/Sudoko/utils/Storage.ts": {
+    "mtime": 1778579444.8632417,
+    "hash": "ccab74a2c72a52bfcad200eb9f992065"
+  },
+  "/mnt/HDD/Projects/Sudoko/screens/HistoryScreen.tsx": {
+    "mtime": 1778582817.051673,
+    "hash": "524393dcd7ddb0530f6c66f19d3fa632"
+  },
+  "/mnt/HDD/Projects/Sudoko/screens/GameScreen.tsx": {
+    "mtime": 1778582460.8710895,
+    "hash": "862abbdfb759c8a147c80a83a13b784a"
+  },
+  "/mnt/HDD/Projects/Sudoko/screens/SolverScreen.tsx": {
+    "mtime": 1778585148.5247266,
+    "hash": "9c4a26eb43eb738831c0b3d2d441c8d5"
+  },
+  "/mnt/HDD/Projects/Sudoko/screens/DifficultyScreen.tsx": {
+    "mtime": 1778582697.1476023,
+    "hash": "34f370f2eb88e6f955abd179189b6644"
+  },
+  "/mnt/HDD/Projects/Sudoko/screens/RulesScreen.tsx": {
+    "mtime": 1778585243.0238562,
+    "hash": "0dc0e00598d2c4912a3b1bc2e5b6eabd"
+  },
+  "/mnt/HDD/Projects/Sudoko/screens/HomeScreen.tsx": {
+    "mtime": 1778582546.124304,
+    "hash": "802b814b11d4303d584a229ec6cd5f74"
+  },
+  "/mnt/HDD/Projects/Sudoko/screens/ModeSelectionScreen.tsx": {
+    "mtime": 1778582790.905696,
+    "hash": "73b4ff59205242603bf98463280be547"
+  },
+  "/mnt/HDD/Projects/Sudoko/screens/SettingsScreen.tsx": {
+    "mtime": 1778584937.448825,
+    "hash": "b17a021a94380d7c46dfd8ba9da8be26"
+  },
+  "/mnt/HDD/Projects/Sudoko/GEMINI.md": {
+    "mtime": 1778584702.4684901,
+    "hash": "e4098130e159cb4ce434f55ca4fb193a"
+  },
+  "/mnt/HDD/Projects/Sudoko/README.md": {
+    "mtime": 1778602093.345198,
+    "hash": "5a38139df3ce7ad451a0c2fd8a9cbe89"
+  },
+  "/mnt/HDD/Projects/Sudoko/assets/icon.png": {
+    "mtime": 1778571369.2347271,
+    "hash": "b393bef0ee3317f2e7a6d40a72281a79"
+  },
+  "/mnt/HDD/Projects/Sudoko/assets/favicon.png": {
+    "mtime": 1778566023.8087907,
+    "hash": "4f1cb2cac2370cd5050681232e8575a8"
+  },
+  "/mnt/HDD/Projects/Sudoko/assets/adaptive-icon.png": {
+    "mtime": 1778566023.8087704,
+    "hash": "97dae5a0e62ad8551d8a31897b425e63"
+  },
+  "/mnt/HDD/Projects/Sudoko/assets/splash-icon.png": {
+    "mtime": 1778566023.8088167,
+    "hash": "97dae5a0e62ad8551d8a31897b425e63"
+  }
+}

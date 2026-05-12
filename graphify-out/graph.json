@@ -1,0 +1,3902 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "jest.config.js",
+      "file_type": "code",
+      "source_file": "jest.config.js",
+      "source_location": "L1",
+      "id": "jest_config_js",
+      "community": 9,
+      "norm_label": "jest.config.js"
+    },
+    {
+      "label": "globals.d.ts",
+      "file_type": "code",
+      "source_file": "globals.d.ts",
+      "source_location": "L1",
+      "id": "globals_d_ts",
+      "community": 8,
+      "norm_label": "globals.d.ts"
+    },
+    {
+      "label": "Timeout",
+      "file_type": "code",
+      "source_file": "globals.d.ts",
+      "source_location": "L3",
+      "id": "sudoko_globals_d_timeout",
+      "community": 8,
+      "norm_label": "timeout"
+    },
+    {
+      "label": "index.ts",
+      "file_type": "code",
+      "source_file": "index.ts",
+      "source_location": "L1",
+      "id": "index_ts",
+      "community": 2,
+      "norm_label": "index.ts"
+    },
+    {
+      "label": "App.tsx",
+      "file_type": "code",
+      "source_file": "App.tsx",
+      "source_location": "L1",
+      "id": "app_tsx",
+      "community": 2,
+      "norm_label": "app.tsx"
+    },
+    {
+      "label": "Screen",
+      "file_type": "code",
+      "source_file": "App.tsx",
+      "source_location": "L18",
+      "id": "sudoko_app_screen",
+      "community": 2,
+      "norm_label": "screen"
+    },
+    {
+      "label": "AppContent()",
+      "file_type": "code",
+      "source_file": "App.tsx",
+      "source_location": "L20",
+      "id": "sudoko_app_appcontent",
+      "community": 2,
+      "norm_label": "appcontent()"
+    },
+    {
+      "label": "App()",
+      "file_type": "code",
+      "source_file": "App.tsx",
+      "source_location": "L183",
+      "id": "sudoko_app_app",
+      "community": 2,
+      "norm_label": "app()"
+    },
+    {
+      "label": "styles",
+      "file_type": "code",
+      "source_file": "App.tsx",
+      "source_location": "L191",
+      "id": "sudoko_app_styles",
+      "community": 2,
+      "norm_label": "styles"
+    },
+    {
+      "label": "NumberPad.tsx",
+      "file_type": "code",
+      "source_file": "components/NumberPad.tsx",
+      "source_location": "L1",
+      "id": "components_numberpad_tsx",
+      "community": 3,
+      "norm_label": "numberpad.tsx"
+    },
+    {
+      "label": "NumberPadProps",
+      "file_type": "code",
+      "source_file": "components/NumberPad.tsx",
+      "source_location": "L6",
+      "id": "components_numberpad_numberpadprops",
+      "community": 3,
+      "norm_label": "numberpadprops"
+    },
+    {
+      "label": "NumberPad()",
+      "file_type": "code",
+      "source_file": "components/NumberPad.tsx",
+      "source_location": "L12",
+      "id": "components_numberpad_numberpad",
+      "community": 3,
+      "norm_label": "numberpad()"
+    },
+    {
+      "label": "styles",
+      "file_type": "code",
+      "source_file": "components/NumberPad.tsx",
+      "source_location": "L116",
+      "id": "components_numberpad_styles",
+      "community": 3,
+      "norm_label": "styles"
+    },
+    {
+      "label": "Cell.tsx",
+      "file_type": "code",
+      "source_file": "components/Cell.tsx",
+      "source_location": "L1",
+      "id": "components_cell_tsx",
+      "community": 7,
+      "norm_label": "cell.tsx"
+    },
+    {
+      "label": "CellProps",
+      "file_type": "code",
+      "source_file": "components/Cell.tsx",
+      "source_location": "L5",
+      "id": "components_cell_cellprops",
+      "community": 7,
+      "norm_label": "cellprops"
+    },
+    {
+      "label": "{ width }",
+      "file_type": "code",
+      "source_file": "components/Cell.tsx",
+      "source_location": "L23",
+      "id": "components_cell_width",
+      "community": 7,
+      "norm_label": "{ width }"
+    },
+    {
+      "label": "CELL_SIZE",
+      "file_type": "code",
+      "source_file": "components/Cell.tsx",
+      "source_location": "L25",
+      "id": "components_cell_cell_size",
+      "community": 7,
+      "norm_label": "cell_size"
+    },
+    {
+      "label": "Cell()",
+      "file_type": "code",
+      "source_file": "components/Cell.tsx",
+      "source_location": "L27",
+      "id": "components_cell_cell",
+      "community": 7,
+      "norm_label": "cell()"
+    },
+    {
+      "label": "styles",
+      "file_type": "code",
+      "source_file": "components/Cell.tsx",
+      "source_location": "L85",
+      "id": "components_cell_styles",
+      "community": 7,
+      "norm_label": "styles"
+    },
+    {
+      "label": "Controls.tsx",
+      "file_type": "code",
+      "source_file": "components/Controls.tsx",
+      "source_location": "L1",
+      "id": "components_controls_tsx",
+      "community": 0,
+      "norm_label": "controls.tsx"
+    },
+    {
+      "label": "ControlsProps",
+      "file_type": "code",
+      "source_file": "components/Controls.tsx",
+      "source_location": "L7",
+      "id": "components_controls_controlsprops",
+      "community": 0,
+      "norm_label": "controlsprops"
+    },
+    {
+      "label": "Controls()",
+      "file_type": "code",
+      "source_file": "components/Controls.tsx",
+      "source_location": "L12",
+      "id": "components_controls_controls",
+      "community": 0,
+      "norm_label": "controls()"
+    },
+    {
+      "label": "styles",
+      "file_type": "code",
+      "source_file": "components/Controls.tsx",
+      "source_location": "L63",
+      "id": "components_controls_styles",
+      "community": 0,
+      "norm_label": "styles"
+    },
+    {
+      "label": "Common.tsx",
+      "file_type": "code",
+      "source_file": "components/Common.tsx",
+      "source_location": "L1",
+      "id": "components_common_tsx",
+      "community": 0,
+      "norm_label": "common.tsx"
+    },
+    {
+      "label": "ButtonProps",
+      "file_type": "code",
+      "source_file": "components/Common.tsx",
+      "source_location": "L5",
+      "id": "components_common_buttonprops",
+      "community": 0,
+      "norm_label": "buttonprops"
+    },
+    {
+      "label": "Button()",
+      "file_type": "code",
+      "source_file": "components/Common.tsx",
+      "source_location": "L15",
+      "id": "components_common_button",
+      "community": 0,
+      "norm_label": "button()"
+    },
+    {
+      "label": "ModalContainer()",
+      "file_type": "code",
+      "source_file": "components/Common.tsx",
+      "source_location": "L66",
+      "id": "components_common_modalcontainer",
+      "community": 0,
+      "norm_label": "modalcontainer()"
+    },
+    {
+      "label": "styles",
+      "file_type": "code",
+      "source_file": "components/Common.tsx",
+      "source_location": "L77",
+      "id": "components_common_styles",
+      "community": 0,
+      "norm_label": "styles"
+    },
+    {
+      "label": "Board.tsx",
+      "file_type": "code",
+      "source_file": "components/Board.tsx",
+      "source_location": "L1",
+      "id": "components_board_tsx",
+      "community": 1,
+      "norm_label": "board.tsx"
+    },
+    {
+      "label": "{ width }",
+      "file_type": "code",
+      "source_file": "components/Board.tsx",
+      "source_location": "L7",
+      "id": "components_board_width",
+      "community": 1,
+      "norm_label": "{ width }"
+    },
+    {
+      "label": "CELL_SIZE",
+      "file_type": "code",
+      "source_file": "components/Board.tsx",
+      "source_location": "L9",
+      "id": "components_board_cell_size",
+      "community": 1,
+      "norm_label": "cell_size"
+    },
+    {
+      "label": "BoardProps",
+      "file_type": "code",
+      "source_file": "components/Board.tsx",
+      "source_location": "L12",
+      "id": "components_board_boardprops",
+      "community": 1,
+      "norm_label": "boardprops"
+    },
+    {
+      "label": "Board()",
+      "file_type": "code",
+      "source_file": "components/Board.tsx",
+      "source_location": "L27",
+      "id": "components_board_board",
+      "community": 1,
+      "norm_label": "board()"
+    },
+    {
+      "label": "styles",
+      "file_type": "code",
+      "source_file": "components/Board.tsx",
+      "source_location": "L134",
+      "id": "components_board_styles",
+      "community": 1,
+      "norm_label": "styles"
+    },
+    {
+      "label": "SudokuEngine.ts",
+      "file_type": "code",
+      "source_file": "utils/SudokuEngine.ts",
+      "source_location": "L1",
+      "id": "utils_sudokuengine_ts",
+      "community": 1,
+      "norm_label": "sudokuengine.ts"
+    },
+    {
+      "label": "Board",
+      "file_type": "code",
+      "source_file": "utils/SudokuEngine.ts",
+      "source_location": "L1",
+      "id": "utils_sudokuengine_board",
+      "community": 1,
+      "norm_label": "board"
+    },
+    {
+      "label": "DIFFICULTIES",
+      "file_type": "code",
+      "source_file": "utils/SudokuEngine.ts",
+      "source_location": "L3",
+      "id": "utils_sudokuengine_difficulties",
+      "community": 6,
+      "norm_label": "difficulties"
+    },
+    {
+      "label": "DifficultyLevel",
+      "file_type": "code",
+      "source_file": "utils/SudokuEngine.ts",
+      "source_location": "L12",
+      "id": "utils_sudokuengine_difficultylevel",
+      "community": 6,
+      "norm_label": "difficultylevel"
+    },
+    {
+      "label": "Cage",
+      "file_type": "code",
+      "source_file": "utils/SudokuEngine.ts",
+      "source_location": "L14",
+      "id": "utils_sudokuengine_cage",
+      "community": 1,
+      "norm_label": "cage"
+    },
+    {
+      "label": "generateCages()",
+      "file_type": "code",
+      "source_file": "utils/SudokuEngine.ts",
+      "source_location": "L23",
+      "id": "utils_sudokuengine_generatecages",
+      "community": 1,
+      "norm_label": "generatecages()"
+    },
+    {
+      "label": "calculateScore()",
+      "file_type": "code",
+      "source_file": "utils/SudokuEngine.ts",
+      "source_location": "L67",
+      "id": "utils_sudokuengine_calculatescore",
+      "community": 1,
+      "norm_label": "calculatescore()"
+    },
+    {
+      "label": "isValid()",
+      "file_type": "code",
+      "source_file": "utils/SudokuEngine.ts",
+      "source_location": "L79",
+      "id": "utils_sudokuengine_isvalid",
+      "community": 1,
+      "norm_label": "isvalid()"
+    },
+    {
+      "label": "solve()",
+      "file_type": "code",
+      "source_file": "utils/SudokuEngine.ts",
+      "source_location": "L106",
+      "id": "utils_sudokuengine_solve",
+      "community": 1,
+      "norm_label": "solve()"
+    },
+    {
+      "label": "shuffle()",
+      "file_type": "code",
+      "source_file": "utils/SudokuEngine.ts",
+      "source_location": "L128",
+      "id": "utils_sudokuengine_shuffle",
+      "community": 1,
+      "norm_label": "shuffle()"
+    },
+    {
+      "label": "generateFullBoard()",
+      "file_type": "code",
+      "source_file": "utils/SudokuEngine.ts",
+      "source_location": "L140",
+      "id": "utils_sudokuengine_generatefullboard",
+      "community": 1,
+      "norm_label": "generatefullboard()"
+    },
+    {
+      "label": "pokeHoles()",
+      "file_type": "code",
+      "source_file": "utils/SudokuEngine.ts",
+      "source_location": "L149",
+      "id": "utils_sudokuengine_pokeholes",
+      "community": 1,
+      "norm_label": "pokeholes()"
+    },
+    {
+      "label": "copyBoard()",
+      "file_type": "code",
+      "source_file": "utils/SudokuEngine.ts",
+      "source_location": "L169",
+      "id": "utils_sudokuengine_copyboard",
+      "community": 1,
+      "norm_label": "copyboard()"
+    },
+    {
+      "label": "isBoardComplete()",
+      "file_type": "code",
+      "source_file": "utils/SudokuEngine.ts",
+      "source_location": "L176",
+      "id": "utils_sudokuengine_isboardcomplete",
+      "community": 1,
+      "norm_label": "isboardcomplete()"
+    },
+    {
+      "label": "SudokuEngine.test.ts",
+      "file_type": "code",
+      "source_file": "utils/SudokuEngine.test.ts",
+      "source_location": "L1",
+      "id": "utils_sudokuengine_test_ts",
+      "community": 1,
+      "norm_label": "sudokuengine.test.ts"
+    },
+    {
+      "label": "emptyBoard",
+      "file_type": "code",
+      "source_file": "utils/SudokuEngine.test.ts",
+      "source_location": "L4",
+      "id": "utils_sudokuengine_test_emptyboard",
+      "community": 1,
+      "norm_label": "emptyboard"
+    },
+    {
+      "label": "boardWithRowConflict",
+      "file_type": "code",
+      "source_file": "utils/SudokuEngine.test.ts",
+      "source_location": "L9",
+      "id": "utils_sudokuengine_test_boardwithrowconflict",
+      "community": 1,
+      "norm_label": "boardwithrowconflict"
+    },
+    {
+      "label": "boardWithColConflict",
+      "file_type": "code",
+      "source_file": "utils/SudokuEngine.test.ts",
+      "source_location": "L13",
+      "id": "utils_sudokuengine_test_boardwithcolconflict",
+      "community": 1,
+      "norm_label": "boardwithcolconflict"
+    },
+    {
+      "label": "boardWithBoxConflict",
+      "file_type": "code",
+      "source_file": "utils/SudokuEngine.test.ts",
+      "source_location": "L17",
+      "id": "utils_sudokuengine_test_boardwithboxconflict",
+      "community": 1,
+      "norm_label": "boardwithboxconflict"
+    },
+    {
+      "label": "board",
+      "file_type": "code",
+      "source_file": "utils/SudokuEngine.test.ts",
+      "source_location": "L23",
+      "id": "utils_sudokuengine_test_board",
+      "community": 1,
+      "norm_label": "board"
+    },
+    {
+      "label": "val",
+      "file_type": "code",
+      "source_file": "utils/SudokuEngine.test.ts",
+      "source_location": "L28",
+      "id": "utils_sudokuengine_test_val",
+      "community": 1,
+      "norm_label": "val"
+    },
+    {
+      "label": "fullBoard",
+      "file_type": "code",
+      "source_file": "utils/SudokuEngine.test.ts",
+      "source_location": "L53",
+      "id": "utils_sudokuengine_test_fullboard",
+      "community": 1,
+      "norm_label": "fullboard"
+    },
+    {
+      "label": "boardWithHoles",
+      "file_type": "code",
+      "source_file": "utils/SudokuEngine.test.ts",
+      "source_location": "L55",
+      "id": "utils_sudokuengine_test_boardwithholes",
+      "community": 1,
+      "norm_label": "boardwithholes"
+    },
+    {
+      "label": "cages",
+      "file_type": "code",
+      "source_file": "utils/SudokuEngine.test.ts",
+      "source_location": "L75",
+      "id": "utils_sudokuengine_test_cages",
+      "community": 1,
+      "norm_label": "cages"
+    },
+    {
+      "label": "coveredCells",
+      "file_type": "code",
+      "source_file": "utils/SudokuEngine.test.ts",
+      "source_location": "L79",
+      "id": "utils_sudokuengine_test_coveredcells",
+      "community": 1,
+      "norm_label": "coveredcells"
+    },
+    {
+      "label": "ThemeContext.tsx",
+      "file_type": "code",
+      "source_file": "utils/ThemeContext.tsx",
+      "source_location": "L1",
+      "id": "utils_themecontext_tsx",
+      "community": 3,
+      "norm_label": "themecontext.tsx"
+    },
+    {
+      "label": "ThemeMode",
+      "file_type": "code",
+      "source_file": "utils/ThemeContext.tsx",
+      "source_location": "L4",
+      "id": "utils_themecontext_thememode",
+      "community": 3,
+      "norm_label": "thememode"
+    },
+    {
+      "label": "ThemeColors",
+      "file_type": "code",
+      "source_file": "utils/ThemeContext.tsx",
+      "source_location": "L6",
+      "id": "utils_themecontext_themecolors",
+      "community": 3,
+      "norm_label": "themecolors"
+    },
+    {
+      "label": "lightColors",
+      "file_type": "code",
+      "source_file": "utils/ThemeContext.tsx",
+      "source_location": "L22",
+      "id": "utils_themecontext_lightcolors",
+      "community": 3,
+      "norm_label": "lightcolors"
+    },
+    {
+      "label": "darkColors",
+      "file_type": "code",
+      "source_file": "utils/ThemeContext.tsx",
+      "source_location": "L38",
+      "id": "utils_themecontext_darkcolors",
+      "community": 3,
+      "norm_label": "darkcolors"
+    },
+    {
+      "label": "ThemeContextType",
+      "file_type": "code",
+      "source_file": "utils/ThemeContext.tsx",
+      "source_location": "L54",
+      "id": "utils_themecontext_themecontexttype",
+      "community": 3,
+      "norm_label": "themecontexttype"
+    },
+    {
+      "label": "ThemeContext",
+      "file_type": "code",
+      "source_file": "utils/ThemeContext.tsx",
+      "source_location": "L73",
+      "id": "utils_themecontext_themecontext",
+      "community": 3,
+      "norm_label": "themecontext"
+    },
+    {
+      "label": "ThemeProvider()",
+      "file_type": "code",
+      "source_file": "utils/ThemeContext.tsx",
+      "source_location": "L75",
+      "id": "utils_themecontext_themeprovider",
+      "community": 3,
+      "norm_label": "themeprovider()"
+    },
+    {
+      "label": "useTheme()",
+      "file_type": "code",
+      "source_file": "utils/ThemeContext.tsx",
+      "source_location": "L103",
+      "id": "utils_themecontext_usetheme",
+      "community": 0,
+      "norm_label": "usetheme()"
+    },
+    {
+      "label": "Storage.test.ts",
+      "file_type": "code",
+      "source_file": "utils/Storage.test.ts",
+      "source_location": "L1",
+      "id": "utils_storage_test_ts",
+      "community": 2,
+      "norm_label": "storage.test.ts"
+    },
+    {
+      "label": "record",
+      "file_type": "code",
+      "source_file": "utils/Storage.test.ts",
+      "source_location": "L15",
+      "id": "utils_storage_test_record",
+      "community": 2,
+      "norm_label": "record"
+    },
+    {
+      "label": "Storage.ts",
+      "file_type": "code",
+      "source_file": "utils/Storage.ts",
+      "source_location": "L1",
+      "id": "utils_storage_ts",
+      "community": 2,
+      "norm_label": "storage.ts"
+    },
+    {
+      "label": "GameStatus",
+      "file_type": "code",
+      "source_file": "utils/Storage.ts",
+      "source_location": "L8",
+      "id": "utils_storage_gamestatus",
+      "community": 2,
+      "norm_label": "gamestatus"
+    },
+    {
+      "label": "GameRecord",
+      "file_type": "code",
+      "source_file": "utils/Storage.ts",
+      "source_location": "L10",
+      "id": "utils_storage_gamerecord",
+      "community": 2,
+      "norm_label": "gamerecord"
+    },
+    {
+      "label": "SavedGame",
+      "file_type": "code",
+      "source_file": "utils/Storage.ts",
+      "source_location": "L20",
+      "id": "utils_storage_savedgame",
+      "community": 2,
+      "norm_label": "savedgame"
+    },
+    {
+      "label": "Settings",
+      "file_type": "code",
+      "source_file": "utils/Storage.ts",
+      "source_location": "L32",
+      "id": "utils_storage_settings",
+      "community": 2,
+      "norm_label": "settings"
+    },
+    {
+      "label": "saveGameToHistory()",
+      "file_type": "code",
+      "source_file": "utils/Storage.ts",
+      "source_location": "L42",
+      "id": "utils_storage_savegametohistory",
+      "community": 2,
+      "norm_label": "savegametohistory()"
+    },
+    {
+      "label": "getHistory()",
+      "file_type": "code",
+      "source_file": "utils/Storage.ts",
+      "source_location": "L52",
+      "id": "utils_storage_gethistory",
+      "community": 2,
+      "norm_label": "gethistory()"
+    },
+    {
+      "label": "saveCurrentGame()",
+      "file_type": "code",
+      "source_file": "utils/Storage.ts",
+      "source_location": "L61",
+      "id": "utils_storage_savecurrentgame",
+      "community": 2,
+      "norm_label": "savecurrentgame()"
+    },
+    {
+      "label": "getSavedGame()",
+      "file_type": "code",
+      "source_file": "utils/Storage.ts",
+      "source_location": "L73",
+      "id": "utils_storage_getsavedgame",
+      "community": 2,
+      "norm_label": "getsavedgame()"
+    },
+    {
+      "label": "saveSettings()",
+      "file_type": "code",
+      "source_file": "utils/Storage.ts",
+      "source_location": "L82",
+      "id": "utils_storage_savesettings",
+      "community": 2,
+      "norm_label": "savesettings()"
+    },
+    {
+      "label": "getSettings()",
+      "file_type": "code",
+      "source_file": "utils/Storage.ts",
+      "source_location": "L90",
+      "id": "utils_storage_getsettings",
+      "community": 2,
+      "norm_label": "getsettings()"
+    },
+    {
+      "label": "HistoryScreen.tsx",
+      "file_type": "code",
+      "source_file": "screens/HistoryScreen.tsx",
+      "source_location": "L1",
+      "id": "screens_historyscreen_tsx",
+      "community": 2,
+      "norm_label": "historyscreen.tsx"
+    },
+    {
+      "label": "HistoryScreenProps",
+      "file_type": "code",
+      "source_file": "screens/HistoryScreen.tsx",
+      "source_location": "L8",
+      "id": "screens_historyscreen_historyscreenprops",
+      "community": 2,
+      "norm_label": "historyscreenprops"
+    },
+    {
+      "label": "HistoryScreen()",
+      "file_type": "code",
+      "source_file": "screens/HistoryScreen.tsx",
+      "source_location": "L12",
+      "id": "screens_historyscreen_historyscreen",
+      "community": 2,
+      "norm_label": "historyscreen()"
+    },
+    {
+      "label": "styles",
+      "file_type": "code",
+      "source_file": "screens/HistoryScreen.tsx",
+      "source_location": "L99",
+      "id": "screens_historyscreen_styles",
+      "community": 2,
+      "norm_label": "styles"
+    },
+    {
+      "label": "GameScreen.tsx",
+      "file_type": "code",
+      "source_file": "screens/GameScreen.tsx",
+      "source_location": "L1",
+      "id": "screens_gamescreen_tsx",
+      "community": 2,
+      "norm_label": "gamescreen.tsx"
+    },
+    {
+      "label": "GameScreenProps",
+      "file_type": "code",
+      "source_file": "screens/GameScreen.tsx",
+      "source_location": "L12",
+      "id": "screens_gamescreen_gamescreenprops",
+      "community": 2,
+      "norm_label": "gamescreenprops"
+    },
+    {
+      "label": "GameScreen()",
+      "file_type": "code",
+      "source_file": "screens/GameScreen.tsx",
+      "source_location": "L20",
+      "id": "screens_gamescreen_gamescreen",
+      "community": 2,
+      "norm_label": "gamescreen()"
+    },
+    {
+      "label": "styles",
+      "file_type": "code",
+      "source_file": "screens/GameScreen.tsx",
+      "source_location": "L512",
+      "id": "screens_gamescreen_styles",
+      "community": 2,
+      "norm_label": "styles"
+    },
+    {
+      "label": "SolverScreen.tsx",
+      "file_type": "code",
+      "source_file": "screens/SolverScreen.tsx",
+      "source_location": "L1",
+      "id": "screens_solverscreen_tsx",
+      "community": 3,
+      "norm_label": "solverscreen.tsx"
+    },
+    {
+      "label": "SolverScreenProps",
+      "file_type": "code",
+      "source_file": "screens/SolverScreen.tsx",
+      "source_location": "L10",
+      "id": "screens_solverscreen_solverscreenprops",
+      "community": 3,
+      "norm_label": "solverscreenprops"
+    },
+    {
+      "label": "SolverScreen()",
+      "file_type": "code",
+      "source_file": "screens/SolverScreen.tsx",
+      "source_location": "L14",
+      "id": "screens_solverscreen_solverscreen",
+      "community": 3,
+      "norm_label": "solverscreen()"
+    },
+    {
+      "label": "styles",
+      "file_type": "code",
+      "source_file": "screens/SolverScreen.tsx",
+      "source_location": "L107",
+      "id": "screens_solverscreen_styles",
+      "community": 3,
+      "norm_label": "styles"
+    },
+    {
+      "label": "DifficultyScreen.tsx",
+      "file_type": "code",
+      "source_file": "screens/DifficultyScreen.tsx",
+      "source_location": "L1",
+      "id": "screens_difficultyscreen_tsx",
+      "community": 6,
+      "norm_label": "difficultyscreen.tsx"
+    },
+    {
+      "label": "DifficultyScreenProps",
+      "file_type": "code",
+      "source_file": "screens/DifficultyScreen.tsx",
+      "source_location": "L8",
+      "id": "screens_difficultyscreen_difficultyscreenprops",
+      "community": 6,
+      "norm_label": "difficultyscreenprops"
+    },
+    {
+      "label": "DifficultyScreen()",
+      "file_type": "code",
+      "source_file": "screens/DifficultyScreen.tsx",
+      "source_location": "L13",
+      "id": "screens_difficultyscreen_difficultyscreen",
+      "community": 6,
+      "norm_label": "difficultyscreen()"
+    },
+    {
+      "label": "DifficultyItem()",
+      "file_type": "code",
+      "source_file": "screens/DifficultyScreen.tsx",
+      "source_location": "L72",
+      "id": "screens_difficultyscreen_difficultyitem",
+      "community": 6,
+      "norm_label": "difficultyitem()"
+    },
+    {
+      "label": "styles",
+      "file_type": "code",
+      "source_file": "screens/DifficultyScreen.tsx",
+      "source_location": "L85",
+      "id": "screens_difficultyscreen_styles",
+      "community": 6,
+      "norm_label": "styles"
+    },
+    {
+      "label": "RulesScreen.tsx",
+      "file_type": "code",
+      "source_file": "screens/RulesScreen.tsx",
+      "source_location": "L1",
+      "id": "screens_rulesscreen_tsx",
+      "community": 0,
+      "norm_label": "rulesscreen.tsx"
+    },
+    {
+      "label": "RulesScreenProps",
+      "file_type": "code",
+      "source_file": "screens/RulesScreen.tsx",
+      "source_location": "L7",
+      "id": "screens_rulesscreen_rulesscreenprops",
+      "community": 0,
+      "norm_label": "rulesscreenprops"
+    },
+    {
+      "label": "RulesScreen()",
+      "file_type": "code",
+      "source_file": "screens/RulesScreen.tsx",
+      "source_location": "L11",
+      "id": "screens_rulesscreen_rulesscreen",
+      "community": 0,
+      "norm_label": "rulesscreen()"
+    },
+    {
+      "label": "RuleCard()",
+      "file_type": "code",
+      "source_file": "screens/RulesScreen.tsx",
+      "source_location": "L103",
+      "id": "screens_rulesscreen_rulecard",
+      "community": 0,
+      "norm_label": "rulecard()"
+    },
+    {
+      "label": "styles",
+      "file_type": "code",
+      "source_file": "screens/RulesScreen.tsx",
+      "source_location": "L118",
+      "id": "screens_rulesscreen_styles",
+      "community": 0,
+      "norm_label": "styles"
+    },
+    {
+      "label": "HomeScreen.tsx",
+      "file_type": "code",
+      "source_file": "screens/HomeScreen.tsx",
+      "source_location": "L1",
+      "id": "screens_homescreen_tsx",
+      "community": 0,
+      "norm_label": "homescreen.tsx"
+    },
+    {
+      "label": "HomeScreenProps",
+      "file_type": "code",
+      "source_file": "screens/HomeScreen.tsx",
+      "source_location": "L7",
+      "id": "screens_homescreen_homescreenprops",
+      "community": 0,
+      "norm_label": "homescreenprops"
+    },
+    {
+      "label": "HomeScreen()",
+      "file_type": "code",
+      "source_file": "screens/HomeScreen.tsx",
+      "source_location": "L11",
+      "id": "screens_homescreen_homescreen",
+      "community": 0,
+      "norm_label": "homescreen()"
+    },
+    {
+      "label": "MenuButton()",
+      "file_type": "code",
+      "source_file": "screens/HomeScreen.tsx",
+      "source_location": "L64",
+      "id": "screens_homescreen_menubutton",
+      "community": 0,
+      "norm_label": "menubutton()"
+    },
+    {
+      "label": "styles",
+      "file_type": "code",
+      "source_file": "screens/HomeScreen.tsx",
+      "source_location": "L78",
+      "id": "screens_homescreen_styles",
+      "community": 0,
+      "norm_label": "styles"
+    },
+    {
+      "label": "ModeSelectionScreen.tsx",
+      "file_type": "code",
+      "source_file": "screens/ModeSelectionScreen.tsx",
+      "source_location": "L1",
+      "id": "screens_modeselectionscreen_tsx",
+      "community": 0,
+      "norm_label": "modeselectionscreen.tsx"
+    },
+    {
+      "label": "ModeSelectionScreenProps",
+      "file_type": "code",
+      "source_file": "screens/ModeSelectionScreen.tsx",
+      "source_location": "L7",
+      "id": "screens_modeselectionscreen_modeselectionscreenprops",
+      "community": 0,
+      "norm_label": "modeselectionscreenprops"
+    },
+    {
+      "label": "ModeSelectionScreen()",
+      "file_type": "code",
+      "source_file": "screens/ModeSelectionScreen.tsx",
+      "source_location": "L12",
+      "id": "screens_modeselectionscreen_modeselectionscreen",
+      "community": 0,
+      "norm_label": "modeselectionscreen()"
+    },
+    {
+      "label": "ModeCard()",
+      "file_type": "code",
+      "source_file": "screens/ModeSelectionScreen.tsx",
+      "source_location": "L46",
+      "id": "screens_modeselectionscreen_modecard",
+      "community": 0,
+      "norm_label": "modecard()"
+    },
+    {
+      "label": "styles",
+      "file_type": "code",
+      "source_file": "screens/ModeSelectionScreen.tsx",
+      "source_location": "L60",
+      "id": "screens_modeselectionscreen_styles",
+      "community": 0,
+      "norm_label": "styles"
+    },
+    {
+      "label": "SettingsScreen.tsx",
+      "file_type": "code",
+      "source_file": "screens/SettingsScreen.tsx",
+      "source_location": "L1",
+      "id": "screens_settingsscreen_tsx",
+      "community": 0,
+      "norm_label": "settingsscreen.tsx"
+    },
+    {
+      "label": "SettingsScreenProps",
+      "file_type": "code",
+      "source_file": "screens/SettingsScreen.tsx",
+      "source_location": "L7",
+      "id": "screens_settingsscreen_settingsscreenprops",
+      "community": 0,
+      "norm_label": "settingsscreenprops"
+    },
+    {
+      "label": "SettingsScreen()",
+      "file_type": "code",
+      "source_file": "screens/SettingsScreen.tsx",
+      "source_location": "L11",
+      "id": "screens_settingsscreen_settingsscreen",
+      "community": 0,
+      "norm_label": "settingsscreen()"
+    },
+    {
+      "label": "SettingItem()",
+      "file_type": "code",
+      "source_file": "screens/SettingsScreen.tsx",
+      "source_location": "L119",
+      "id": "screens_settingsscreen_settingitem",
+      "community": 0,
+      "norm_label": "settingitem()"
+    },
+    {
+      "label": "ThemeOption()",
+      "file_type": "code",
+      "source_file": "screens/SettingsScreen.tsx",
+      "source_location": "L137",
+      "id": "screens_settingsscreen_themeoption",
+      "community": 0,
+      "norm_label": "themeoption()"
+    },
+    {
+      "label": "styles",
+      "file_type": "code",
+      "source_file": "screens/SettingsScreen.tsx",
+      "source_location": "L153",
+      "id": "screens_settingsscreen_styles",
+      "community": 0,
+      "norm_label": "styles"
+    },
+    {
+      "label": "GEMINI.md",
+      "file_type": "document",
+      "source_file": "GEMINI.md",
+      "source_location": "L1",
+      "id": "gemini_md",
+      "community": 5,
+      "norm_label": "gemini.md"
+    },
+    {
+      "label": "Project Specification: Expo Sudoku Mobile App",
+      "file_type": "document",
+      "source_file": "GEMINI.md",
+      "source_location": "L1",
+      "id": "sudoko_gemini_project_specification_expo_sudoku_mobile_app",
+      "community": 5,
+      "norm_label": "project specification: expo sudoku mobile app"
+    },
+    {
+      "label": "1. Overview",
+      "file_type": "document",
+      "source_file": "GEMINI.md",
+      "source_location": "L3",
+      "id": "sudoko_gemini_1_overview",
+      "community": 5,
+      "norm_label": "1. overview"
+    },
+    {
+      "label": "2. Core Game Logic (Rules for the AI)",
+      "file_type": "document",
+      "source_file": "GEMINI.md",
+      "source_location": "L6",
+      "id": "sudoko_gemini_2_core_game_logic_rules_for_the_ai",
+      "community": 5,
+      "norm_label": "2. core game logic (rules for the ai)"
+    },
+    {
+      "label": "3. Technical Requirements",
+      "file_type": "document",
+      "source_file": "GEMINI.md",
+      "source_location": "L15",
+      "id": "sudoko_gemini_3_technical_requirements",
+      "community": 5,
+      "norm_label": "3. technical requirements"
+    },
+    {
+      "label": "4. UI/UX Requirements",
+      "file_type": "document",
+      "source_file": "GEMINI.md",
+      "source_location": "L24",
+      "id": "sudoko_gemini_4_ui_ux_requirements",
+      "community": 5,
+      "norm_label": "4. ui/ux requirements"
+    },
+    {
+      "label": "5. Component Structure",
+      "file_type": "document",
+      "source_file": "GEMINI.md",
+      "source_location": "L37",
+      "id": "sudoko_gemini_5_component_structure",
+      "community": 5,
+      "norm_label": "5. component structure"
+    },
+    {
+      "label": "6. Implementation Instructions for Gemini",
+      "file_type": "document",
+      "source_file": "GEMINI.md",
+      "source_location": "L44",
+      "id": "sudoko_gemini_6_implementation_instructions_for_gemini",
+      "community": 5,
+      "norm_label": "6. implementation instructions for gemini"
+    },
+    {
+      "label": "graphify",
+      "file_type": "document",
+      "source_file": "GEMINI.md",
+      "source_location": "L52",
+      "id": "sudoko_gemini_graphify",
+      "community": 5,
+      "norm_label": "graphify"
+    },
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "id": "readme_md",
+      "community": 4,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "Sudoku Retro Mobile \ud83c\udfae",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "id": "sudoko_readme_sudoku_retro_mobile",
+      "community": 4,
+      "norm_label": "sudoku retro mobile \ud83c\udfae"
+    },
+    {
+      "label": "\u2728 Features",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L7",
+      "id": "sudoko_readme_features",
+      "community": 4,
+      "norm_label": "\u2728 features"
+    },
+    {
+      "label": "\ud83d\udee0\ufe0f Tech Stack",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L20",
+      "id": "sudoko_readme_tech_stack",
+      "community": 4,
+      "norm_label": "\ud83d\udee0\ufe0f tech stack"
+    },
+    {
+      "label": "\ud83d\ude80 Getting Started",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L29",
+      "id": "sudoko_readme_getting_started",
+      "community": 4,
+      "norm_label": "\ud83d\ude80 getting started"
+    },
+    {
+      "label": "Prerequisites",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L31",
+      "id": "sudoko_readme_prerequisites",
+      "community": 4,
+      "norm_label": "prerequisites"
+    },
+    {
+      "label": "Installation",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L36",
+      "id": "sudoko_readme_installation",
+      "community": 4,
+      "norm_label": "installation"
+    },
+    {
+      "label": "code:bash (git clone <repository-url>)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L39",
+      "id": "sudoko_readme_codeblock_1",
+      "community": 4,
+      "norm_label": "code:bash (git clone <repository-url>)"
+    },
+    {
+      "label": "code:bash (npm install)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L45",
+      "id": "sudoko_readme_codeblock_2",
+      "community": 4,
+      "norm_label": "code:bash (npm install)"
+    },
+    {
+      "label": "Running the App",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L49",
+      "id": "sudoko_readme_running_the_app",
+      "community": 4,
+      "norm_label": "running the app"
+    },
+    {
+      "label": "code:bash (npm start)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L53",
+      "id": "sudoko_readme_codeblock_3",
+      "community": 4,
+      "norm_label": "code:bash (npm start)"
+    },
+    {
+      "label": "\ud83d\udcc2 Project Structure",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L62",
+      "id": "sudoko_readme_project_structure",
+      "community": 4,
+      "norm_label": "\ud83d\udcc2 project structure"
+    },
+    {
+      "label": "\ud83d\udcdd License",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L69",
+      "id": "sudoko_readme_license",
+      "community": 4,
+      "norm_label": "\ud83d\udcdd license"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "globals.d.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "globals_d_ts",
+      "target": "sudoko_globals_d_timeout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "index.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "index_ts",
+      "target": "app_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "App.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "app_tsx",
+      "target": "utils_themecontext_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "App.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "app_tsx",
+      "target": "utils_themecontext_themeprovider",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "App.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "app_tsx",
+      "target": "utils_themecontext_usetheme",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "App.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "app_tsx",
+      "target": "screens_homescreen_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "App.tsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "app_tsx",
+      "target": "screens_gamescreen_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "App.tsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "app_tsx",
+      "target": "screens_modeselectionscreen_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "App.tsx",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "app_tsx",
+      "target": "screens_difficultyscreen_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "App.tsx",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "app_tsx",
+      "target": "screens_settingsscreen_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "App.tsx",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "app_tsx",
+      "target": "screens_rulesscreen_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "App.tsx",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "app_tsx",
+      "target": "screens_solverscreen_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "App.tsx",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "app_tsx",
+      "target": "screens_historyscreen_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "App.tsx",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "app_tsx",
+      "target": "utils_sudokuengine_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "App.tsx",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "app_tsx",
+      "target": "utils_sudokuengine_difficultylevel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "App.tsx",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "app_tsx",
+      "target": "utils_storage_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "App.tsx",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "app_tsx",
+      "target": "utils_storage_getsavedgame",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "App.tsx",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "app_tsx",
+      "target": "utils_storage_savecurrentgame",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "App.tsx",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "app_tsx",
+      "target": "utils_storage_savedgame",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "App.tsx",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "app_tsx",
+      "target": "components_common_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "App.tsx",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "app_tsx",
+      "target": "components_common_button",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "App.tsx",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "app_tsx",
+      "target": "components_common_modalcontainer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "App.tsx",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "app_tsx",
+      "target": "sudoko_app_screen",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "App.tsx",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "app_tsx",
+      "target": "sudoko_app_appcontent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "App.tsx",
+      "source_location": "L183",
+      "weight": 1.0,
+      "source": "app_tsx",
+      "target": "sudoko_app_app",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "App.tsx",
+      "source_location": "L191",
+      "weight": 1.0,
+      "source": "app_tsx",
+      "target": "sudoko_app_styles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "App.tsx",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "sudoko_app_appcontent",
+      "target": "utils_themecontext_usetheme"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/NumberPad.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "components_numberpad_tsx",
+      "target": "utils_themecontext_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/NumberPad.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "components_numberpad_tsx",
+      "target": "utils_themecontext_usetheme",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/NumberPad.tsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "components_numberpad_tsx",
+      "target": "components_numberpad_numberpadprops",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/NumberPad.tsx",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "components_numberpad_tsx",
+      "target": "components_numberpad_numberpad",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/NumberPad.tsx",
+      "source_location": "L116",
+      "weight": 1.0,
+      "source": "components_numberpad_tsx",
+      "target": "components_numberpad_styles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/GameScreen.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "screens_gamescreen_tsx",
+      "target": "components_numberpad_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/SolverScreen.tsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "screens_solverscreen_tsx",
+      "target": "components_numberpad_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "components/NumberPad.tsx",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "components_numberpad_numberpad",
+      "target": "utils_themecontext_usetheme"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Cell.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "components_cell_tsx",
+      "target": "utils_themecontext_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Cell.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "components_cell_tsx",
+      "target": "utils_themecontext_usetheme",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Cell.tsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "components_cell_tsx",
+      "target": "components_cell_cellprops",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Cell.tsx",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "components_cell_tsx",
+      "target": "components_cell_width",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Cell.tsx",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "components_cell_tsx",
+      "target": "components_cell_cell_size",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Cell.tsx",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "components_cell_tsx",
+      "target": "components_cell_cell",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Cell.tsx",
+      "source_location": "L85",
+      "weight": 1.0,
+      "source": "components_cell_tsx",
+      "target": "components_cell_styles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Board.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "components_board_tsx",
+      "target": "components_cell_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "components/Cell.tsx",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "components_cell_cell",
+      "target": "utils_themecontext_usetheme"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Controls.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "components_controls_tsx",
+      "target": "utils_themecontext_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Controls.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "components_controls_tsx",
+      "target": "utils_themecontext_usetheme",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Controls.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "components_controls_tsx",
+      "target": "components_common_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Controls.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "components_controls_tsx",
+      "target": "components_common_button",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Controls.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "components_controls_tsx",
+      "target": "components_common_modalcontainer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Controls.tsx",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "components_controls_tsx",
+      "target": "components_controls_controlsprops",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Controls.tsx",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "components_controls_tsx",
+      "target": "components_controls_controls",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Controls.tsx",
+      "source_location": "L63",
+      "weight": 1.0,
+      "source": "components_controls_tsx",
+      "target": "components_controls_styles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/GameScreen.tsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "screens_gamescreen_tsx",
+      "target": "components_controls_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "components/Controls.tsx",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "components_controls_controls",
+      "target": "utils_themecontext_usetheme"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Common.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "components_common_tsx",
+      "target": "utils_themecontext_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Common.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "components_common_tsx",
+      "target": "utils_themecontext_usetheme",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Common.tsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "components_common_tsx",
+      "target": "components_common_buttonprops",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Common.tsx",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "components_common_tsx",
+      "target": "components_common_button",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Common.tsx",
+      "source_location": "L66",
+      "weight": 1.0,
+      "source": "components_common_tsx",
+      "target": "components_common_modalcontainer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Common.tsx",
+      "source_location": "L77",
+      "weight": 1.0,
+      "source": "components_common_tsx",
+      "target": "components_common_styles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/HistoryScreen.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "screens_historyscreen_tsx",
+      "target": "components_common_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/GameScreen.tsx",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "screens_gamescreen_tsx",
+      "target": "components_common_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/SolverScreen.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "screens_solverscreen_tsx",
+      "target": "components_common_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/DifficultyScreen.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "screens_difficultyscreen_tsx",
+      "target": "components_common_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/RulesScreen.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "screens_rulesscreen_tsx",
+      "target": "components_common_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/HomeScreen.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "screens_homescreen_tsx",
+      "target": "components_common_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/ModeSelectionScreen.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "screens_modeselectionscreen_tsx",
+      "target": "components_common_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/SettingsScreen.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "screens_settingsscreen_tsx",
+      "target": "components_common_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/HistoryScreen.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "screens_historyscreen_tsx",
+      "target": "components_common_button",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/GameScreen.tsx",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "screens_gamescreen_tsx",
+      "target": "components_common_button",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/SolverScreen.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "screens_solverscreen_tsx",
+      "target": "components_common_button",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/DifficultyScreen.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "screens_difficultyscreen_tsx",
+      "target": "components_common_button",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/RulesScreen.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "screens_rulesscreen_tsx",
+      "target": "components_common_button",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/HomeScreen.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "screens_homescreen_tsx",
+      "target": "components_common_button",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/ModeSelectionScreen.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "screens_modeselectionscreen_tsx",
+      "target": "components_common_button",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/SettingsScreen.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "screens_settingsscreen_tsx",
+      "target": "components_common_button",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "components/Common.tsx",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "components_common_button",
+      "target": "utils_themecontext_usetheme"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/GameScreen.tsx",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "screens_gamescreen_tsx",
+      "target": "components_common_modalcontainer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/DifficultyScreen.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "screens_difficultyscreen_tsx",
+      "target": "components_common_modalcontainer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "components/Common.tsx",
+      "source_location": "L67",
+      "weight": 1.0,
+      "source": "components_common_modalcontainer",
+      "target": "utils_themecontext_usetheme"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Board.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "components_board_tsx",
+      "target": "utils_sudokuengine_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Board.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "components_board_tsx",
+      "target": "utils_sudokuengine_board",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Board.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "components_board_tsx",
+      "target": "utils_sudokuengine_cage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Board.tsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "components_board_tsx",
+      "target": "utils_themecontext_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Board.tsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "components_board_tsx",
+      "target": "utils_themecontext_usetheme",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Board.tsx",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "components_board_tsx",
+      "target": "components_board_width",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Board.tsx",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "components_board_tsx",
+      "target": "components_board_cell_size",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Board.tsx",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "components_board_tsx",
+      "target": "components_board_boardprops",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Board.tsx",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "components_board_tsx",
+      "target": "components_board_board",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "components/Board.tsx",
+      "source_location": "L134",
+      "weight": 1.0,
+      "source": "components_board_tsx",
+      "target": "components_board_styles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/GameScreen.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "screens_gamescreen_tsx",
+      "target": "components_board_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/SolverScreen.tsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "screens_solverscreen_tsx",
+      "target": "components_board_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "components/Board.tsx",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "components_board_board",
+      "target": "utils_themecontext_usetheme"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.ts",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_ts",
+      "target": "utils_sudokuengine_board",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.ts",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_ts",
+      "target": "utils_sudokuengine_difficulties",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.ts",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_ts",
+      "target": "utils_sudokuengine_difficultylevel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.ts",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_ts",
+      "target": "utils_sudokuengine_cage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.ts",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_ts",
+      "target": "utils_sudokuengine_generatecages",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.ts",
+      "source_location": "L67",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_ts",
+      "target": "utils_sudokuengine_calculatescore",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.ts",
+      "source_location": "L79",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_ts",
+      "target": "utils_sudokuengine_isvalid",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.ts",
+      "source_location": "L106",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_ts",
+      "target": "utils_sudokuengine_solve",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.ts",
+      "source_location": "L128",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_ts",
+      "target": "utils_sudokuengine_shuffle",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.ts",
+      "source_location": "L140",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_ts",
+      "target": "utils_sudokuengine_generatefullboard",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.ts",
+      "source_location": "L149",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_ts",
+      "target": "utils_sudokuengine_pokeholes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.ts",
+      "source_location": "L169",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_ts",
+      "target": "utils_sudokuengine_copyboard",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.ts",
+      "source_location": "L176",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_ts",
+      "target": "utils_sudokuengine_isboardcomplete",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.test.ts",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_test_ts",
+      "target": "utils_sudokuengine_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/Storage.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "utils_storage_ts",
+      "target": "utils_sudokuengine_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/GameScreen.tsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "screens_gamescreen_tsx",
+      "target": "utils_sudokuengine_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/SolverScreen.tsx",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "screens_solverscreen_tsx",
+      "target": "utils_sudokuengine_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/DifficultyScreen.tsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "screens_difficultyscreen_tsx",
+      "target": "utils_sudokuengine_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.test.ts",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_test_ts",
+      "target": "utils_sudokuengine_board",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/Storage.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "utils_storage_ts",
+      "target": "utils_sudokuengine_board",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/DifficultyScreen.tsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "screens_difficultyscreen_tsx",
+      "target": "utils_sudokuengine_difficulties",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/Storage.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "utils_storage_ts",
+      "target": "utils_sudokuengine_difficultylevel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/DifficultyScreen.tsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "screens_difficultyscreen_tsx",
+      "target": "utils_sudokuengine_difficultylevel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/Storage.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "utils_storage_ts",
+      "target": "utils_sudokuengine_cage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.test.ts",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_test_ts",
+      "target": "utils_sudokuengine_generatecages",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.test.ts",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_test_ts",
+      "target": "utils_sudokuengine_calculatescore",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.ts",
+      "source_location": "L112",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_solve",
+      "target": "utils_sudokuengine_isvalid",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.test.ts",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_test_ts",
+      "target": "utils_sudokuengine_isvalid",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.ts",
+      "source_location": "L110",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_solve",
+      "target": "utils_sudokuengine_shuffle",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.ts",
+      "source_location": "L142",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_generatefullboard",
+      "target": "utils_sudokuengine_solve",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.test.ts",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_test_ts",
+      "target": "utils_sudokuengine_solve",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.test.ts",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_test_ts",
+      "target": "utils_sudokuengine_generatefullboard",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.test.ts",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_test_ts",
+      "target": "utils_sudokuengine_pokeholes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.test.ts",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_test_ts",
+      "target": "utils_sudokuengine_isboardcomplete",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.test.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_test_ts",
+      "target": "utils_sudokuengine_test_emptyboard",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.test.ts",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_test_ts",
+      "target": "utils_sudokuengine_test_boardwithrowconflict",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.test.ts",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_test_ts",
+      "target": "utils_sudokuengine_test_boardwithcolconflict",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.test.ts",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_test_ts",
+      "target": "utils_sudokuengine_test_boardwithboxconflict",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.test.ts",
+      "source_location": "L74",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_test_ts",
+      "target": "utils_sudokuengine_test_board",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.test.ts",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_test_ts",
+      "target": "utils_sudokuengine_test_val",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.test.ts",
+      "source_location": "L53",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_test_ts",
+      "target": "utils_sudokuengine_test_fullboard",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.test.ts",
+      "source_location": "L55",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_test_ts",
+      "target": "utils_sudokuengine_test_boardwithholes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.test.ts",
+      "source_location": "L75",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_test_ts",
+      "target": "utils_sudokuengine_test_cages",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/SudokuEngine.test.ts",
+      "source_location": "L79",
+      "weight": 1.0,
+      "source": "utils_sudokuengine_test_ts",
+      "target": "utils_sudokuengine_test_coveredcells",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/ThemeContext.tsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "utils_themecontext_tsx",
+      "target": "utils_themecontext_thememode",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/ThemeContext.tsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "utils_themecontext_tsx",
+      "target": "utils_themecontext_themecolors",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/ThemeContext.tsx",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "utils_themecontext_tsx",
+      "target": "utils_themecontext_lightcolors",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/ThemeContext.tsx",
+      "source_location": "L38",
+      "weight": 1.0,
+      "source": "utils_themecontext_tsx",
+      "target": "utils_themecontext_darkcolors",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/ThemeContext.tsx",
+      "source_location": "L54",
+      "weight": 1.0,
+      "source": "utils_themecontext_tsx",
+      "target": "utils_themecontext_themecontexttype",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/ThemeContext.tsx",
+      "source_location": "L73",
+      "weight": 1.0,
+      "source": "utils_themecontext_tsx",
+      "target": "utils_themecontext_themecontext",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/ThemeContext.tsx",
+      "source_location": "L75",
+      "weight": 1.0,
+      "source": "utils_themecontext_tsx",
+      "target": "utils_themecontext_themeprovider",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/ThemeContext.tsx",
+      "source_location": "L103",
+      "weight": 1.0,
+      "source": "utils_themecontext_tsx",
+      "target": "utils_themecontext_usetheme",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/HistoryScreen.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "screens_historyscreen_tsx",
+      "target": "utils_themecontext_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/GameScreen.tsx",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "screens_gamescreen_tsx",
+      "target": "utils_themecontext_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/SolverScreen.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "screens_solverscreen_tsx",
+      "target": "utils_themecontext_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/DifficultyScreen.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "screens_difficultyscreen_tsx",
+      "target": "utils_themecontext_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/RulesScreen.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "screens_rulesscreen_tsx",
+      "target": "utils_themecontext_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/HomeScreen.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "screens_homescreen_tsx",
+      "target": "utils_themecontext_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/ModeSelectionScreen.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "screens_modeselectionscreen_tsx",
+      "target": "utils_themecontext_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/SettingsScreen.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "screens_settingsscreen_tsx",
+      "target": "utils_themecontext_tsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/SettingsScreen.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "screens_settingsscreen_tsx",
+      "target": "utils_themecontext_thememode",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/HistoryScreen.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "screens_historyscreen_tsx",
+      "target": "utils_themecontext_usetheme",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/GameScreen.tsx",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "screens_gamescreen_tsx",
+      "target": "utils_themecontext_usetheme",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/SolverScreen.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "screens_solverscreen_tsx",
+      "target": "utils_themecontext_usetheme",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/DifficultyScreen.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "screens_difficultyscreen_tsx",
+      "target": "utils_themecontext_usetheme",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/RulesScreen.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "screens_rulesscreen_tsx",
+      "target": "utils_themecontext_usetheme",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/HomeScreen.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "screens_homescreen_tsx",
+      "target": "utils_themecontext_usetheme",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/ModeSelectionScreen.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "screens_modeselectionscreen_tsx",
+      "target": "utils_themecontext_usetheme",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/SettingsScreen.tsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "screens_settingsscreen_tsx",
+      "target": "utils_themecontext_usetheme",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "screens/HistoryScreen.tsx",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "screens_historyscreen_historyscreen",
+      "target": "utils_themecontext_usetheme"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "screens/GameScreen.tsx",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "screens_gamescreen_gamescreen",
+      "target": "utils_themecontext_usetheme"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "screens/SolverScreen.tsx",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "screens_solverscreen_solverscreen",
+      "target": "utils_themecontext_usetheme"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "screens/DifficultyScreen.tsx",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "screens_difficultyscreen_difficultyscreen",
+      "target": "utils_themecontext_usetheme"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "screens/DifficultyScreen.tsx",
+      "source_location": "L73",
+      "weight": 1.0,
+      "source": "screens_difficultyscreen_difficultyitem",
+      "target": "utils_themecontext_usetheme"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "screens/RulesScreen.tsx",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "screens_rulesscreen_rulesscreen",
+      "target": "utils_themecontext_usetheme"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "screens/RulesScreen.tsx",
+      "source_location": "L104",
+      "weight": 1.0,
+      "source": "screens_rulesscreen_rulecard",
+      "target": "utils_themecontext_usetheme"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "screens/HomeScreen.tsx",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "screens_homescreen_homescreen",
+      "target": "utils_themecontext_usetheme"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "screens/HomeScreen.tsx",
+      "source_location": "L65",
+      "weight": 1.0,
+      "source": "screens_homescreen_menubutton",
+      "target": "utils_themecontext_usetheme"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "screens/ModeSelectionScreen.tsx",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "screens_modeselectionscreen_modeselectionscreen",
+      "target": "utils_themecontext_usetheme"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "screens/ModeSelectionScreen.tsx",
+      "source_location": "L47",
+      "weight": 1.0,
+      "source": "screens_modeselectionscreen_modecard",
+      "target": "utils_themecontext_usetheme"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "screens/SettingsScreen.tsx",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "screens_settingsscreen_settingsscreen",
+      "target": "utils_themecontext_usetheme"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "screens/SettingsScreen.tsx",
+      "source_location": "L120",
+      "weight": 1.0,
+      "source": "screens_settingsscreen_settingitem",
+      "target": "utils_themecontext_usetheme"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "screens/SettingsScreen.tsx",
+      "source_location": "L138",
+      "weight": 1.0,
+      "source": "screens_settingsscreen_themeoption",
+      "target": "utils_themecontext_usetheme"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/Storage.test.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "utils_storage_test_ts",
+      "target": "utils_storage_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/Storage.test.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "utils_storage_test_ts",
+      "target": "utils_storage_savegametohistory",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/Storage.test.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "utils_storage_test_ts",
+      "target": "utils_storage_gethistory",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/Storage.test.ts",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "utils_storage_test_ts",
+      "target": "utils_storage_gamerecord",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/Storage.test.ts",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "utils_storage_test_ts",
+      "target": "utils_storage_test_record",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/Storage.ts",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "utils_storage_ts",
+      "target": "utils_storage_gamestatus",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/Storage.ts",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "utils_storage_ts",
+      "target": "utils_storage_gamerecord",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/Storage.ts",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "utils_storage_ts",
+      "target": "utils_storage_savedgame",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/Storage.ts",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "utils_storage_ts",
+      "target": "utils_storage_settings",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/Storage.ts",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "utils_storage_ts",
+      "target": "utils_storage_savegametohistory",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/Storage.ts",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "utils_storage_ts",
+      "target": "utils_storage_gethistory",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/Storage.ts",
+      "source_location": "L61",
+      "weight": 1.0,
+      "source": "utils_storage_ts",
+      "target": "utils_storage_savecurrentgame",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/Storage.ts",
+      "source_location": "L73",
+      "weight": 1.0,
+      "source": "utils_storage_ts",
+      "target": "utils_storage_getsavedgame",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/Storage.ts",
+      "source_location": "L82",
+      "weight": 1.0,
+      "source": "utils_storage_ts",
+      "target": "utils_storage_savesettings",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/Storage.ts",
+      "source_location": "L90",
+      "weight": 1.0,
+      "source": "utils_storage_ts",
+      "target": "utils_storage_getsettings",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/HistoryScreen.tsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "screens_historyscreen_tsx",
+      "target": "utils_storage_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/GameScreen.tsx",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "screens_gamescreen_tsx",
+      "target": "utils_storage_ts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/HistoryScreen.tsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "screens_historyscreen_tsx",
+      "target": "utils_storage_gamerecord",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "utils/Storage.ts",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "utils_storage_savegametohistory",
+      "target": "utils_storage_gethistory",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/GameScreen.tsx",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "screens_gamescreen_tsx",
+      "target": "utils_storage_savegametohistory",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/HistoryScreen.tsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "screens_historyscreen_tsx",
+      "target": "utils_storage_gethistory",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/GameScreen.tsx",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "screens_gamescreen_tsx",
+      "target": "utils_storage_savecurrentgame",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/GameScreen.tsx",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "screens_gamescreen_tsx",
+      "target": "utils_storage_getsavedgame",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/HistoryScreen.tsx",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "screens_historyscreen_tsx",
+      "target": "screens_historyscreen_historyscreenprops",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/HistoryScreen.tsx",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "screens_historyscreen_tsx",
+      "target": "screens_historyscreen_historyscreen",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/HistoryScreen.tsx",
+      "source_location": "L99",
+      "weight": 1.0,
+      "source": "screens_historyscreen_tsx",
+      "target": "screens_historyscreen_styles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/GameScreen.tsx",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "screens_gamescreen_tsx",
+      "target": "screens_gamescreen_gamescreenprops",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/GameScreen.tsx",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "screens_gamescreen_tsx",
+      "target": "screens_gamescreen_gamescreen",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/GameScreen.tsx",
+      "source_location": "L512",
+      "weight": 1.0,
+      "source": "screens_gamescreen_tsx",
+      "target": "screens_gamescreen_styles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/SolverScreen.tsx",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "screens_solverscreen_tsx",
+      "target": "screens_solverscreen_solverscreenprops",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/SolverScreen.tsx",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "screens_solverscreen_tsx",
+      "target": "screens_solverscreen_solverscreen",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/SolverScreen.tsx",
+      "source_location": "L107",
+      "weight": 1.0,
+      "source": "screens_solverscreen_tsx",
+      "target": "screens_solverscreen_styles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/DifficultyScreen.tsx",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "screens_difficultyscreen_tsx",
+      "target": "screens_difficultyscreen_difficultyscreenprops",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/DifficultyScreen.tsx",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "screens_difficultyscreen_tsx",
+      "target": "screens_difficultyscreen_difficultyscreen",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/DifficultyScreen.tsx",
+      "source_location": "L72",
+      "weight": 1.0,
+      "source": "screens_difficultyscreen_tsx",
+      "target": "screens_difficultyscreen_difficultyitem",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/DifficultyScreen.tsx",
+      "source_location": "L85",
+      "weight": 1.0,
+      "source": "screens_difficultyscreen_tsx",
+      "target": "screens_difficultyscreen_styles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/RulesScreen.tsx",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "screens_rulesscreen_tsx",
+      "target": "screens_rulesscreen_rulesscreenprops",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/RulesScreen.tsx",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "screens_rulesscreen_tsx",
+      "target": "screens_rulesscreen_rulesscreen",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/RulesScreen.tsx",
+      "source_location": "L103",
+      "weight": 1.0,
+      "source": "screens_rulesscreen_tsx",
+      "target": "screens_rulesscreen_rulecard",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/RulesScreen.tsx",
+      "source_location": "L118",
+      "weight": 1.0,
+      "source": "screens_rulesscreen_tsx",
+      "target": "screens_rulesscreen_styles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/HomeScreen.tsx",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "screens_homescreen_tsx",
+      "target": "screens_homescreen_homescreenprops",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/HomeScreen.tsx",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "screens_homescreen_tsx",
+      "target": "screens_homescreen_homescreen",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/HomeScreen.tsx",
+      "source_location": "L64",
+      "weight": 1.0,
+      "source": "screens_homescreen_tsx",
+      "target": "screens_homescreen_menubutton",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/HomeScreen.tsx",
+      "source_location": "L78",
+      "weight": 1.0,
+      "source": "screens_homescreen_tsx",
+      "target": "screens_homescreen_styles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/ModeSelectionScreen.tsx",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "screens_modeselectionscreen_tsx",
+      "target": "screens_modeselectionscreen_modeselectionscreenprops",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/ModeSelectionScreen.tsx",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "screens_modeselectionscreen_tsx",
+      "target": "screens_modeselectionscreen_modeselectionscreen",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/ModeSelectionScreen.tsx",
+      "source_location": "L46",
+      "weight": 1.0,
+      "source": "screens_modeselectionscreen_tsx",
+      "target": "screens_modeselectionscreen_modecard",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/ModeSelectionScreen.tsx",
+      "source_location": "L60",
+      "weight": 1.0,
+      "source": "screens_modeselectionscreen_tsx",
+      "target": "screens_modeselectionscreen_styles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/SettingsScreen.tsx",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "screens_settingsscreen_tsx",
+      "target": "screens_settingsscreen_settingsscreenprops",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/SettingsScreen.tsx",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "screens_settingsscreen_tsx",
+      "target": "screens_settingsscreen_settingsscreen",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/SettingsScreen.tsx",
+      "source_location": "L119",
+      "weight": 1.0,
+      "source": "screens_settingsscreen_tsx",
+      "target": "screens_settingsscreen_settingitem",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/SettingsScreen.tsx",
+      "source_location": "L137",
+      "weight": 1.0,
+      "source": "screens_settingsscreen_tsx",
+      "target": "screens_settingsscreen_themeoption",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "screens/SettingsScreen.tsx",
+      "source_location": "L153",
+      "weight": 1.0,
+      "source": "screens_settingsscreen_tsx",
+      "target": "screens_settingsscreen_styles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "GEMINI.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "gemini_md",
+      "target": "sudoko_gemini_project_specification_expo_sudoku_mobile_app",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "GEMINI.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "sudoko_gemini_project_specification_expo_sudoku_mobile_app",
+      "target": "sudoko_gemini_1_overview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "GEMINI.md",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "sudoko_gemini_project_specification_expo_sudoku_mobile_app",
+      "target": "sudoko_gemini_2_core_game_logic_rules_for_the_ai",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "GEMINI.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "sudoko_gemini_project_specification_expo_sudoku_mobile_app",
+      "target": "sudoko_gemini_3_technical_requirements",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "GEMINI.md",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "sudoko_gemini_project_specification_expo_sudoku_mobile_app",
+      "target": "sudoko_gemini_4_ui_ux_requirements",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "GEMINI.md",
+      "source_location": "L37",
+      "weight": 1.0,
+      "source": "sudoko_gemini_project_specification_expo_sudoku_mobile_app",
+      "target": "sudoko_gemini_5_component_structure",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "GEMINI.md",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "sudoko_gemini_project_specification_expo_sudoku_mobile_app",
+      "target": "sudoko_gemini_6_implementation_instructions_for_gemini",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "GEMINI.md",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "sudoko_gemini_project_specification_expo_sudoku_mobile_app",
+      "target": "sudoko_gemini_graphify",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "readme_md",
+      "target": "sudoko_readme_sudoku_retro_mobile",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "sudoko_readme_sudoku_retro_mobile",
+      "target": "sudoko_readme_features",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "sudoko_readme_sudoku_retro_mobile",
+      "target": "sudoko_readme_tech_stack",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "sudoko_readme_sudoku_retro_mobile",
+      "target": "sudoko_readme_getting_started",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L62",
+      "weight": 1.0,
+      "source": "sudoko_readme_sudoku_retro_mobile",
+      "target": "sudoko_readme_project_structure",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L69",
+      "weight": 1.0,
+      "source": "sudoko_readme_sudoku_retro_mobile",
+      "target": "sudoko_readme_license",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "sudoko_readme_getting_started",
+      "target": "sudoko_readme_prerequisites",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "sudoko_readme_getting_started",
+      "target": "sudoko_readme_installation",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L49",
+      "weight": 1.0,
+      "source": "sudoko_readme_getting_started",
+      "target": "sudoko_readme_running_the_app",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "sudoko_readme_installation",
+      "target": "sudoko_readme_codeblock_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L45",
+      "weight": 1.0,
+      "source": "sudoko_readme_installation",
+      "target": "sudoko_readme_codeblock_2",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L53",
+      "weight": 1.0,
+      "source": "sudoko_readme_running_the_app",
+      "target": "sudoko_readme_codeblock_3",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "137e5ebe5ea22a04768cdb077c267b2a7ffe5e99"
+}
